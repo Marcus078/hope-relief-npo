@@ -1,0 +1,21 @@
+## Visual Studio temporary files & caches
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build outputs
+[Bb]in/
+[Oo]bj/
+out/
+
+## Packages
+*.nupkg
+packages/
+
+## Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+[Dd]s_[Ss]tore
